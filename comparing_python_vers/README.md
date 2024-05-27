@@ -2,7 +2,7 @@ Goal of this repo is to check you can create a conda environment using `Python 3
 
 # Create an editable install
 
-Restructure this directoy and create a `pyproject.toml` for a area calculation package named `circle_area`.
+Restructure this directoy and create a `pyproject.toml` for a area calculation package named `random_area`.
 
 There should be a `src/random_area/utils` folder with `utils.py` in it and a `src/random_area/area_calc` folder with `area_of_circle.py` within it.
 
@@ -10,7 +10,7 @@ There should be a `src/random_area/utils` folder with `utils.py` in it and a `sr
 
 Now install the package with `pip install -e .` and create an `environment.yaml`
 
-Finally, run `python run.py` from within this directory.
+Finally, run `python run.py` from within this directory. If you have done this successfully this will work.
 
 # Update package and rerun
 
