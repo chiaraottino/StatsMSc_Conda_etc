@@ -1,0 +1,8 @@
+.snakemake
+calls
+mapped_reads
+sorted_reads
+pyproject.toml
+
+__pycache__
+*.egg-info
