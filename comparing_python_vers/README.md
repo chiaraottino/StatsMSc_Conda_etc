@@ -12,6 +12,8 @@ Now install the package with `pip install -e .` and create an `environment.yaml`
 
 Finally, run `python run.py` from within this directory. If you have done this successfully this will work.
 
+If you get really stuck look in the git history - you can check out SHA `acdffc03de129c19b8917c864e699719bd85226c`
+
 # Update package and rerun
 
 Improve the package by replacing printing with logging and adding seeding for reproducibility
